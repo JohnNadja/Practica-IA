@@ -47,7 +47,7 @@ Este tipo de modelos requieren de personalización para ser usados. Es decir, re
 - (pendiente)
 
 ### Prácticas con Cognitive Services
-![Cognitive Services](/images/Cognitive-Services.png)
+![Cognitive Services](/images/cognitive-Services.png)
 
 - [Face](/PracticaFace/Face.md)
 - [Custom Vision](/PracticaCV/CV.md)
