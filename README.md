@@ -43,7 +43,7 @@ Este tipo de modelos requieren de personalización para ser usados. Es decir, re
 ### Prácticas con Machine Learning
 ![ML](/images/Machine-Learning.png)
 
-- [Machine Learning Automatizado](/PracticaMLAuto/MLAuto.md) ![MLS](/images/Machin-eLearning-Studio.svg)
+- [Machine Learning Automatizado](/PracticaMLAuto/MLAuto.md) ![MLS](/images/Machine-Learning-Studio.svg)
 - (pendiente)
 
 ### Prácticas con Cognitive Services
