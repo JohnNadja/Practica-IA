@@ -54,19 +54,18 @@ Una vez ingresado al sitio (con la cuenta de Azure) que se menciona en requisito
 4. Una vez entrenado, se pueden realizar **Pruebas (tests)** para verificar que el bot funciona correctamente (Pueden agregarse preguntas y respuestas después de haber sido entrenado y siempre pulsar el botón de *Guardar y Entrenar*).
     - Si se quiere revisar el procentaje de acierto del bot, se puede hacer mediante el botón de *Inspeccionar* en las preguntas y se visualizará el puntaje de acierto.
 
-    ![QnAsave](/PracticaBot/Botimages/QnAsave.gif)
-
 5. Una vez que el bot presente buenas pruebas, se procede a **Publicar (publish)**. Hay dos opciones:
     - Se puede publicar el bot en una página de Facebook, Twitter, etc, usando el URL del cuadro de teto.
-    - Crear un bot con ***Azure Bot Service***[**]() pulsando el botón de *Crear bot (Create bot).
+    - Crear un bot con ***Azure Bot Service***[**]() pulsando el botón de *Crear bot* (Create bot).
         - Se procede a editar los datos.
             | Parámetro | Valor |
             | ---------- | ----- |
             |Elegir plan de tarifa | Seleccionar el plan de tarifa que se desea utilizar. Si se puede, usar la opción **Gratis**, pero habrá limitaciones en compraración con **Estándar**.|
             | [EXTRA] Idioma del SDK[*](https://www.redhat.com/es/topics/cloud-native-apps/what-is-SDK#:~:text=Un%20kit%20de%20desarrollo%20de%20software%20(SDK)%20es%20un%20conjunto,o%20un%20lenguaje%20de%20programaci%C3%B3n.) | Seleccionar el idioma que se desea utilizar el SDK (El idioma del bot si se descargará[*] y editar su código fuente para subirlo a otra plataforma con Azure).|
 
-            - Se valida con el botón de *Crear*
-            ![QNABotService](/PracticaBot/Botimages/QNABotService.gif)
+            - Se valida con el botón de *Crear*.
+           
+           ![QNABotService](/PracticaBot/Botimages/QnABotService.gif)
 
 6. Cuando se complete la creación, se puede ver el bot en la página de Azure Bot Service. Dentro del servicio, se selecciona la sección **Probar en el Chat en web** que se encuentra en el panel izquierdo.
 
